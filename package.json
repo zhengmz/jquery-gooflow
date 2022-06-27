@@ -1,0 +1,30 @@
+{
+  "name": "jquery-gooflow",
+  "version": "0.9.0",
+  "description": "online process designer component used to build flowcharts on the WEB side",
+  "main": "gooflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhengmz/jquery-gooflow.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "gooflow",
+    "flowchart"
+  ],
+  "maintainers": [
+    {
+      "name": "zhengmz",
+      "url": "https://github.com/zhengmz"
+    }
+  ],
+  "license": ["MIT"],
+  "bugs": {
+    "url": "https://github.com/zhengmz/jquery-gooflow/issues"
+  },
+  "homepage": "github.com/zhengmz/jquery-gooflow#readme"
+}
